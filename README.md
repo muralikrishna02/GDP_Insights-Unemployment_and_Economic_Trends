@@ -28,19 +28,6 @@ Created various visualizations, such as line graphs, bar plots, and choropleth m
 - Bar plots of unemployment rates and GDP for specific countries.
 - A choropleth map highlighting unemployment rates for different countries in 2021.
 
-
-## Findings
-
-1. The top five countries with the highest unemployment rates in 2021 include South Africa, Djibouti, Eswatini, Botswana, and Lesotho.
-2. A correlation analysis showed a weak negative correlation between unemployment rates and GDP.
-3. There is no significant difference in GDP between 2020 and 2021, as indicated by a t-test.
-
-## Conclusion
-
-This analysis suggests that when a country experiences an increase in GDP, there is a tendency for unemployment rates to decrease. However, the relationship is not strongly linear. The findings from this project provide valuable insights into the economic conditions of various countries.
-
-For more details, data visualizations, and code used for this analysis, please refer to the Jupyter Notebook in this repository.
-
 ## Dependencies
 
 To run the Jupyter Notebook and reproduce the analysis, you will need to install the following Python libraries:
@@ -77,4 +64,3 @@ In conclusion, this analysis provides insights into the complex relationship bet
 Policymakers, economists, and researchers can use this analysis as a starting point for understanding the economic health of different countries and exploring potential solutions to tackle unemployment challenges. Continuous monitoring and data-driven decision-making are crucial in addressing these economic issues.
 
 For more details, data visualizations, and code used for this analysis, please refer to the Jupyter Notebook in this repository.
-
