@@ -28,7 +28,6 @@ Created various visualizations, such as line graphs, bar plots, and choropleth m
 - Bar plots of unemployment rates and GDP for specific countries.
 - A choropleth map highlighting unemployment rates for different countries in 2021.
 
-![India GDP vs. Unemployment](india_gdp_unemployment.png)
 
 ## Findings
 
